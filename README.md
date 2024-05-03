@@ -1,14 +1,9 @@
-# Portfolio
 
-Certainly! Here's a sample GitHub README for a data analyst's portfolio showcasing their projects:
+## About Me
 
----
+I am a passionate data analyst with experience in various industries, including retail, e-commerce, and customer insights. I am proficient in Python, SQL,Excel, Power BI, data visualization, and statistical analysis. Feel free to reach out to me via email [anuraganu516@gmail.com] for collaboration or inquiries.
 
-# Data Analyst Portfolio
-
-Welcome to my Data Analyst Portfolio! This repository contains a collection of projects that demonstrate my skills and experience in data analysis. Each project explores different datasets, methodologies, and insights gained through data analysis techniques.
-
-###1. Python_Diwali_Sales_Analysis
+### 1. Python_Diwali_Sales_Analysis
 Python project- Analyze Diwali sales data to improve customer experience and sales
 
 performed data cleaning and manipulation.
@@ -30,10 +25,6 @@ Used different type of customized visualisation(bar chart, pie chart, donut char
 ## How to Run the Projects
 
 Each project folder contains a detailed README file with instructions on how to replicate the analysis. You can explore the code, datasets, and findings in each project folder.
-
-## About Me
-
-I am a passionate data analyst with experience in various industries, including retail, e-commerce, and customer insights. I am proficient in Python, SQL, data visualization, and statistical analysis. Feel free to reach out to me via email [email@example.com] for collaboration or inquiries.
 
 ## Connect with Me
 
