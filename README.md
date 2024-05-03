@@ -28,8 +28,8 @@ Each project folder contains a detailed README file with instructions on how to 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anugrah-singh-61911a274)
+
 
 ---
 
