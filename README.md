@@ -8,31 +8,24 @@ Certainly! Here's a sample GitHub README for a data analyst's portfolio showcasi
 
 Welcome to my Data Analyst Portfolio! This repository contains a collection of projects that demonstrate my skills and experience in data analysis. Each project explores different datasets, methodologies, and insights gained through data analysis techniques.
 
-## Projects
+###1. Python_Diwali_Sales_Analysis
+Python project- Analyze Diwali sales data to improve customer experience and sales
 
-### 1. Sales Forecasting Analysis
+performed data cleaning and manipulation.
+performed exploratory data analysis(EDA) using pandas, mataplotlib and seaborn libraries.
+improved customer experience by identifying potential cuastomers across different states, occupation, gender and age groups.
+improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+thankyou!
 
-- **Description:** Analyzed historical sales data for a retail company to forecast future sales trends.
-- **Tools Used:** Python, Pandas, Matplotlib, Scikit-learn
-- **Key Insights:** Identified seasonal patterns and used time series forecasting techniques to predict future sales figures.
+[Link to Project](https://github.com/Anugrah-Singh11/Python_Diwali_Sales_Analysis.git)
 
-[Link to Project](sales_forecasting_analysis/)
+### Ecommerce_Sales-Power-bi-dashboard
+Created interactive dashboard to trach and analyze online sales data.
+Used complex parameters to drill down in worksheet and customization using filters and slicers.
+Created connections, jion new tables, calculations to manipulate data and enable user driven parameters for visualisations.
+Used different type of customized visualisation(bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
-### 2. Customer Segmentation Study
-
-- **Description:** Conducted a customer segmentation analysis for an e-commerce platform to identify different customer segments based on purchasing behavior.
-- **Tools Used:** Python, Pandas, Scikit-learn, K-means clustering
-- **Key Insights:** Discovered distinct customer segments with unique characteristics, enabling targeted marketing strategies.
-
-[Link to Project](customer_segmentation_study/)
-
-### 3. Sentiment Analysis of Product Reviews
-
-- **Description:** Analyzed sentiment from customer reviews to understand customer opinions and sentiments towards products.
-- **Tools Used:** Python, NLTK, TextBlob, WordCloud
-- **Key Insights:** Identified common themes in positive and negative reviews, providing actionable insights for product improvement.
-
-[Link to Project](sentiment_analysis_product_reviews/)
+[Link to Project](https://github.com/Anugrah-Singh11/Ecommerce_Sales-Power-bi-dashboard.git)
 
 ## How to Run the Projects
 
