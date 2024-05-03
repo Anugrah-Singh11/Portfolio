@@ -28,7 +28,7 @@ Each project folder contains a detailed README file with instructions on how to 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anugrahsingh11)
+- LinkedIn: [Anugrah Singh](https://www.linkedin.com/in/anugrahsingh11)
 
 
 ---
