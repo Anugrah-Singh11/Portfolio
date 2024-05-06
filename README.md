@@ -22,6 +22,11 @@ Used different type of customized visualisation(bar chart, pie chart, donut char
 
 [Link to Project](https://github.com/Anugrah-Singh11/Ecommerce_Sales-Power-bi-dashboard.git)
 
+### pizza_sales_sql_project
+IN THIS PROJECT I HAVE UTILISED SQL QUERIES TO SOLVE QUESTIONS THAT WERE RELATED TO PIZZA SALES.
+
+[Link to Project](
+
 ## How to Run the Projects
 
 Each project folder contains a detailed README file with instructions on how to replicate the analysis. You can explore the code, datasets, and findings in each project folder.
