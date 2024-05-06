@@ -14,7 +14,7 @@ thankyou!
 
 [Link to Project](https://github.com/Anugrah-Singh11/Python_Diwali_Sales_Analysis.git)
 
-### Ecommerce_Sales-Power-bi-dashboard
+### 2. Ecommerce_Sales-Power-bi-dashboard
 Created interactive dashboard to trach and analyze online sales data.
 Used complex parameters to drill down in worksheet and customization using filters and slicers.
 Created connections, jion new tables, calculations to manipulate data and enable user driven parameters for visualisations.
@@ -22,7 +22,7 @@ Used different type of customized visualisation(bar chart, pie chart, donut char
 
 [Link to Project](https://github.com/Anugrah-Singh11/Ecommerce_Sales-Power-bi-dashboard.git)
 
-### pizza_sales_sql_project
+### 3. pizza_sales_sql_project
 IN THIS PROJECT I HAVE UTILISED SQL QUERIES TO SOLVE QUESTIONS THAT WERE RELATED TO PIZZA SALES.
 
 [Link to Project](https://github.com/Anugrah-Singh11/pizza_sales_sql_project)
