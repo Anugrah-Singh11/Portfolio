@@ -25,7 +25,8 @@ Used different type of customized visualisation(bar chart, pie chart, donut char
 ### pizza_sales_sql_project
 IN THIS PROJECT I HAVE UTILISED SQL QUERIES TO SOLVE QUESTIONS THAT WERE RELATED TO PIZZA SALES.
 
-[Link to Project](
+[Link to Project](https://github.com/Anugrah-Singh11/pizza_sales_sql_project)
+
 
 ## How to Run the Projects
 
